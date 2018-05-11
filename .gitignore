@@ -3,3 +3,6 @@ LearnTensorFLow/MNIST_data/t10k-labels-idx1-ubyte.gz
 LearnTensorFLow/MNIST_data/train-images-idx3-ubyte.gz
 LearnTensorFLow/MNIST_data/train-labels-idx1-ubyte.gz
 LearnTensorFLow/__pycache__/input_data.cpython-36.pyc
+.vscode/
+*/__pycache__
+*/*/test
