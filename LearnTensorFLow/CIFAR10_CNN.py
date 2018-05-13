@@ -1,3 +1,6 @@
+import sys
+sys.path.append('/home/gaolei/Downloads/CIFAR10/models/tutorials/image/cifar10')
+
 import cifar10, cifar10_input
 import tensorflow as tf
 import numpy as np
